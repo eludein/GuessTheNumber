@@ -1,7 +1,7 @@
 # Guess the Number Game
 
 ## Description
-"Guess the Number" is a simple, interactive Python game. The program randomly selects a number between 1 and 100, and the player has a limited number of attempts to guess it correctly. It's a classic game that demonstrates basic programming concepts like random number generation, loops, conditional statements, and user input handling.
+"Guess the Number" is a simple, interactive Python game. The program randomly selects a number between 1 and 100, and the player has a limited number of attempts to guess it correctly.
 
 ## Installation
 Ensure you have Python installed on your system to play this game. If not, download and install Python from [python.org](https://www.python.org/downloads/).
