@@ -37,6 +37,6 @@ Contributions to improve the game or add new features are welcome. Here's how to
 
 ## Contact
 
-If you have any questions or comments, please feel free to contact [me](mailto:amindfulmoose@proton.me).---
+If you have any questions or comments, please feel free to contact [me](mailto:amindfulmoose@proton.me)
 
 Enjoy guessing, and may you always pick the right number!
